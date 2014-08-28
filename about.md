@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+"General badass", ...really?  Ok, how about "An ego out of control..."
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself. 
+Colorado Springs based technology junkie.  Currently learning all things JavaScript, Html5, and AngularJS.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[Damon@Achey.Net](mailto:damon@achey.net)
