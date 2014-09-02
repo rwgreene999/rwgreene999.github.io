@@ -3,4 +3,4 @@ layout: post
 title: Encrypting your email with Mailvelope
 ---
 
-![Wax stamp](http://achey.net/wordpress/wp-content/uploads/2013/06/mvelo_logo_soft.png) With all the news going around about NSA spying I figured I’d use this chance to add an upgrade to my security setup.  I’m now running a plugin to GMail called Mailvelope that allows for strong encryption of emails.  There is a nice HAK5 podcast about Mailvelope and if anyone is feeling so inclined you can tell me your secret thing by using my public key file to encrypt your message or just shoot me an email asking for my public key and I’ll gladly send it.
+![Locked Email](http://blog.achey.net/images/locked_email.png) With all the news going around about NSA spying I figured I’d use this chance to add an upgrade to my security setup.  I’m now running a plugin to GMail called Mailvelope that allows for strong encryption of emails.  There is a nice HAK5 podcast about Mailvelope and if anyone is feeling so inclined you can tell me your secret thing by using my public key file to encrypt your message or just shoot me an email asking for my public key and I’ll gladly send it.
