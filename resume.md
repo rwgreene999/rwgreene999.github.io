@@ -15,7 +15,7 @@ permalink: /resume/
 
 ## Experience
 
-**[Progressive Insurance](http://www.progressive.com/)**  
+**<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>**  
 External Data 2014-Present  
 *IT Applications Programmer Senior ERO*  
 
@@ -25,7 +25,7 @@ External Data 2014-Present
 - Participated in all phases of SDM life cycle
 - Continuation of previous contract role.
 
-**[Progressive Insurance (Precision Management)](http://www.progressive.com/)**  
+**<a href="http://www.progressive.com/" target="_blank">Progressive Insurance (Precision Management)</a>**  
 External Data 2013-2014  
 *IT Applications Programmer Senior/Vendor*  
 
@@ -33,7 +33,7 @@ External Data 2013-2014
 - Maintained and updated large legacy code base for multiple applications.
 - Participated in all phases of SDM life cycle
 
-**[Susquehanna International Group](http://sig.com/)**
+**<a href="http://sig.com/" target="_blank">Susquehanna International Group</a>**
 Books and Records 2012-2013  
 *Software Developer*  
 
@@ -42,7 +42,7 @@ Books and Records 2012-2013
 - Quickly understand complex messaging schema describing complex financial interactions.
 - Provided tools and support for live systems monitoring.
 
-**[Microsoft Corporation (SmarTek21)](http://microsoft.com/)**  
+**<a href="http://microsoft.com" target="_blank">Microsoft Corporation (SmarTek21)</a>**  
 Bing Commerce Platform 2009-2011  
 *Software Design Engineer/Vendor*  
 
@@ -53,7 +53,7 @@ Bing Commerce Platform 2009-2011
 - Designed a componentized job service engine and web interface for reporting and statistical analysis of internal processes.
 - Worked with Microsoft Research to design and implement tests for improving machine learning toolset.
 
-**[Microsoft Corporation](http://microsoft.com/)**  
+**<a href="http://microsoft.com" target="_blank">Microsoft Corporation</a>**  
 Windows Mobile Division 2002-2008  
 *Software Design Engineer*  
 
@@ -64,7 +64,7 @@ Windows Mobile Division 2002-2008
 - Implemented dynamic OS upgrade support for Windows Mobile. Including the execute in place from ROM and update on demand from devices in the field.
 - Maintained binary image update utility across kernel driver model migration.
 
-**[Microsoft Corporation](http://microsoft.com/)**  
+**<a href="http://microsoft.com" target="_blank">Microsoft Corporation</a>**  
 Windows Mobile Division 2000-2002  
 *Software Design Engineer/Test*  
 
@@ -72,14 +72,14 @@ Windows Mobile Division 2000-2002
 - Designed test automation for image update processes
 - Implemented web portal and device side logging to track internal stress testing results.
 
-**[Microsoft Corporation](http://microsoft.com/)**  
+**<a href="http://microsoft.com" target="_blank">Microsoft Corporation</a>**  
 Desktop Operating Systems, Windows ME 1999-2000  
 *Software Design Engineer/Test*  
 
 - Implemented 1394 debugging support for legacy free versions of Windows ME.
 - Developed tests for PCI, CardBus, and PCMCIA.
 
-**[Travel Impressions](http://microsoft.com/)**  
+**<a href="http://www.travimp.com/" target="_blank">Travel Impressions</a>**  
 Wholesale tour operator 1997-1999  
 *Programmer Analyst*  
 
@@ -88,5 +88,5 @@ Wholesale tour operator 1997-1999
 
 ## Education
 
-**[Lehigh University](http://lehigh.edu/)**  
+**<a href="http://lehigh.edu/" traget="_blank">Lehigh University</a>**  
 BS Computer Engineering  
