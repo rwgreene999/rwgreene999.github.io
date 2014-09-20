@@ -9,13 +9,13 @@ permalink: /resume/
 ## Skills
 
 - Specializing in C# development, 9+ years experience. Desire to move into Web (ASP.NET/HTML5/Javascript) development.
-- Used recently: C#, .NET, Visual Studio, LINQ, TPL, WCF, Windows Workflow, SOAP, MSTest, HTML, Linux, SQL Server, IIS Hosted Services, Batch, Git, xNUnit, LinqPad, Nuget, , Quality Center, Agile, Scrum
-- Used previously: Nagios, Perforce, Nagios, Perforce, MySql, Cassandra, Oracle, Solace Router, Tibco Rondezvous, Redmine, Topshelf, Mono, Lucene.Net, MTurk, Crowdflower, Silverlight for Business Applications, C/C++, JavaScript, Perl, x86 asm, MipsII asm, Python, PHP, Entity Frameworks
-- Ramping up on: ASP.NET, HTML5, Javascript, AngularJS, Bootstrap
+- **Used recently:** C#, .NET, Visual Studio, LINQ, TPL, WCF, Windows Workflow, SOAP, MSTest, HTML, Linux, SQL Server, IIS Hosted Services, Batch, Git, xNUnit, LinqPad, Nuget, , Quality Center, Agile, Scrum
+- **Used previously:** Nagios, Perforce, Nagios, Perforce, MySql, Cassandra, Oracle, Solace Router, Tibco Rondezvous, Redmine, Topshelf, Mono, Lucene.Net, MTurk, Crowdflower, Silverlight for Business Applications, C/C++, JavaScript, Perl, x86 asm, MipsII asm, Python, PHP, Entity Frameworks
+- **Ramping up on:** ASP.NET, HTML5, Javascript, AngularJS, Bootstrap
 
 ## Experience
 
-**<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>**  
+####<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>  
 External Data 2014-Present  
 *IT Applications Programmer Senior ERO*  
 
