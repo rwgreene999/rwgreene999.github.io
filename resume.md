@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-<div style="text-align:center" markdown="1">Damon Achey</div>
+<center>Damon Achey</center>
 
 ## Skills
 
