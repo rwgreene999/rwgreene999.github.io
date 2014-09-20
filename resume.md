@@ -4,9 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-## Resume
-
--> Damon Achey <-
+<div style="text-align:center" markdown="1">Damon Achey</div>
 
 ## Skills
 
@@ -17,8 +15,8 @@ permalink: /resume/
 
 ## Experience
 
-**[Progressive Insurance](http://www.progressive.com/)**
-External Data 2014-Present
+**[Progressive Insurance](http://www.progressive.com/)**<br/>
+External Data 2014-Present<br/>
 *IT Applications Programmer Senior ERO*
 
 - Member of Enterprise Resource Organization responsible for cross enterprise development projects
@@ -29,5 +27,5 @@ External Data 2014-Present
 
 ## Education
 
-**[Lehigh University](http://lehigh.edu/)**
+**[Lehigh University](http://lehigh.edu/)**<br/>
 BS Computer Engineering
