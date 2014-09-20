@@ -88,5 +88,5 @@ Wholesale tour operator 1997-1999
 
 ## Education
 
-**<a href="http://lehigh.edu/" traget="_blank">Lehigh University</a>**  
+**<a href="http://lehigh.edu/" target="_blank">Lehigh University</a>**  
 BS Computer Engineering  
