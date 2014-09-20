@@ -1,6 +1,6 @@
 ---
 layout: post
-title: ![New]({{ site.url }}/images/new.png) New site up! test
+title: New site up!
 ---
 
 ![New]({{ site.url }}/images/new.png) Yes, I've now launced a new version of the site yet again.  This means I've probably been through more versions of the site than I currently have posts but such is life as a techie.
