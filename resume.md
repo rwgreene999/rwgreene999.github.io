@@ -15,7 +15,7 @@ permalink: /resume/
 
 ## Experience
 
-####<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>  
+**<a href="http://www.progressive.com/" target="_blank">Progressive Insurance</a>**  
 External Data 2014-Present  
 *IT Applications Programmer Senior ERO*  
 
