@@ -33,7 +33,7 @@ External Data 2013-2014
 - Maintained and updated large legacy code base for multiple applications.
 - Participated in all phases of SDM life cycle
 
-**<a href="http://sig.com/" target="_blank">Susquehanna International Group</a>**
+**<a href="http://sig.com/" target="_blank">Susquehanna International Group</a>**  
 Books and Records 2012-2013  
 *Software Developer*  
 
